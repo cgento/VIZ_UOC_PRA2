@@ -15,11 +15,11 @@ El proyecto se divide en dos fases:
    - Las visualizaciones se han realizado con la herramienta Tableau, y están publicadas en Tableau Public. Pueden verse a travñes de [este enlace](https://public.tableau.com/views/EFF_cargafinanciera_bancaonline/Fragilidadfinancieraratiopagosdeudarenta?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 # Contenidos de este repositorio
-Este repositorio contiene tres carpetas:
-1) **data:** Contiene los datos utilizados para las visualizaciones, incluyendo los conjuntos dedatos originales, los transformados y las seleccions finales utilizadas para las visualizaciones.
-2) **progs:** Contiene el jupyter notebook con el código Python utilizado para las técnicas ETL.
-3) **images:** Contiene dos imágenes con las visualizaciones creadas para el proyecto (y que pueden verse más abajo).
-4) **workbook:** Contiene el workbook de Tableau descargado desde Tableau Public.
+Este repositorio contiene::
+1) **Carpeta data:** Contiene los datos utilizados para las visualizaciones, incluyendo los conjuntos dedatos originales, los transformados y las seleccions finales utilizadas para las visualizaciones.
+2) **images:** Contiene dos imágenes con las visualizaciones creadas para el proyecto (y que pueden verse más abajo).
+3) **workbook:** Contiene el workbook de Tableau descargado desde Tableau Public.
+4) **notebook PRA:** Jupyter notebook con el código Python utilizado para las técnicas ETL.
 
 # Imágenes estáticas de las visualizaciones
 
