@@ -7,5 +7,6 @@ Este proyecto realiza unas visualizaciones de datos sobre los temas de la carga 
 # Fases:
 El proyecto se divide en dos fases:
 1) La carga y transformación de los datos:
-   - Los datos pueden descargarse gratuitamente en su [**sitio web EFF**](https://app.bde.es/efs_www/home?lang=ES). Más concretamente, se descargan fichero
+   - Los datos pueden descargarse gratuitamente en su [**sitio web EFF**](https://app.bde.es/efs_www/home?lang=ES). Más concretamente:
+        - aaa
 
