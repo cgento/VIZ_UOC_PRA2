@@ -13,9 +13,15 @@ El proyecto se divide en dos fases:
    - Carga y transformaciones sobre los datos: Se utilizan técnicas ETL en código Python para transformar los datos a un formato utilizable para su visualización.
 2) **Visualizaciones**:
    - Las visualizaciones se han realizado con la herramienta Tableau, y están publicadas en Tableau Public. Pueden verse a travñes de [este enlace](https://public.tableau.com/views/EFF_cargafinanciera_bancaonline/Fragilidadfinancieraratiopagosdeudarenta?:language=en-US&:display_count=n&:origin=viz_share_link).
-  
+
+- Imagen de visualización de Carga financiera
 <p align="center">
   <img src="images/carga_financiera.png" />
+ </p>
+
+- Imagen de visualización de Banca online
+<p align="center">
+  <img src="images/banca_online.png" />
  </p>
 
 # Contenidos de este repositorio
