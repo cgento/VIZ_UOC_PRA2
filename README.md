@@ -6,7 +6,9 @@ Este proyecto realiza unas visualizaciones de datos sobre los temas de la carga 
 
 # Fases:
 El proyecto se divide en dos fases:
-1) La carga y transformación de los datos:
-   - Los datos pueden descargarse gratuitamente en su [**sitio web EFF**](https://app.bde.es/efs_www/home?lang=ES). Más concretamente:
-        - aaa
+1) La descarga, carga y transformación de los datos:
+   - Descarga de datos: Puede hacerse gratuitamente en el [**sitio web EFF**](https://app.bde.es/efs_www/home?lang=ES). Más concretamente:
+        - [Pestaña descarga](https://app.bde.es/efs_www/download?lang=ES): Contiene series con los resultados principales de todas las olas. Se pueden descargar todas las series, o una selección.
+        - [Pestaña microdatos](https://app.bde.es/gnt_seg/controlAccesoEmail.jsp?pas=eff&lang=es&p1=2020&lang=es): Desde aquí pueden descargarse los microdatos de la encuesta. Se requiere un registro al sistema, pero es gratuito y su principal objetivo es ser incluido en una lista de distribución para recibir notificaciones sobre publicación de nuevas ediciones o versiones de los datos.
+   - 
 
