@@ -12,7 +12,7 @@ El proyecto se divide en dos fases:
         - [Pestaña microdatos](https://app.bde.es/gnt_seg/controlAccesoEmail.jsp?pas=eff&lang=es&p1=2020&lang=es): Desde aquí pueden descargarse los microdatos de la encuesta. Se requiere un registro al sistema, pero es gratuito y su principal objetivo es ser incluido en una lista de distribución para recibir notificaciones sobre publicación de nuevas ediciones o versiones de los datos.
    - Carga y transformaciones sobre los datos: Se utilizan técnicas ETL en código Python para transformar los datos a un formato utilizable para su visualización.
 2) **Visualizaciones**:
-   - Las visualizaciones se han realizado con la herramienta Tableau, y están publicadas en Tableau Public. Pueden verse a travñes de [este enlace](https://public.tableau.com/views/EFF_cargafinanciera_bancaonline/Fragilidadfinancieraratiopagosdeudarenta?:language=en-US&:display_count=n&:origin=viz_share_link).
+   - Las visualizaciones se han realizado con la herramienta Tableau, y están publicadas en Tableau Public. Pueden verse a travñes de [este enlace](https://public.tableau.com/views/EFF_cargafinanciera_bancaonline/Fragilidadfinancieraratiopagosdeudarenta?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 # Contenidos de este repositorio
 Este repositorio contiene::
