@@ -15,5 +15,5 @@ El proyecto se divide en dos fases:
    - Las visualizaciones se han realizado con la herramienta Tableau, y están publicadas en Tableau Public. Pueden verse a travñes de [este enlace](https://public.tableau.com/views/EFF_cargafinanciera_bancaonline/Fragilidadfinancieraratiopagosdeudarenta?:language=en-US&:display_count=n&:origin=viz_share_link).
   
 # Contenidos de este repositorio
-El repositorio 
+Este repositorio contiene 
 
