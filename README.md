@@ -18,7 +18,7 @@ El proyecto se divide en dos fases:
 Este repositorio contiene tres carpetas:
 1) **data:** Contiene los datos utilizados para las visualizaciones.
 2) **progs:** Contiene el jupyter notebook con el código Python utilizado para las técnicas ETL.
-3) **images:** Contiene dos imágenes con las visualizaciones creadas para el proyecto.
+3) **images:** Contiene dos imágenes con las visualizaciones creadas para el proyecto (y que pueden verse más abajo).
 4) **workbook:** Contiene el workbook de Tableau descargado desde Tableau Public.
 
 # Imágenes estáticas de las visualizaciones
